@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	LDAP shell entirely written in Perl
 Name:		ldapsh
 Version:	0.9.4pre1
